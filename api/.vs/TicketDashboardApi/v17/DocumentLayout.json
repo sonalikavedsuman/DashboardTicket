@@ -1,0 +1,319 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SONALIKA\\Desktop\\TicketDashboard\\api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDCCC05-99C2-4059-B4FF-51F1A98F14E6}|TicketDashboardApi\\TicketDashboardApi.csproj|c:\\users\\sonalika\\desktop\\ticketdashboard\\api\\ticketdashboardapi\\migrations\\20241212055650_fifth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDCCC05-99C2-4059-B4FF-51F1A98F14E6}|TicketDashboardApi\\TicketDashboardApi.csproj|solutionrelative:ticketdashboardapi\\migrations\\20241212055650_fifth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDCCC05-99C2-4059-B4FF-51F1A98F14E6}|TicketDashboardApi\\TicketDashboardApi.csproj|c:\\users\\sonalika\\desktop\\ticketdashboard\\api\\ticketdashboardapi\\services\\clientcontentservice\\clientcontentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDCCC05-99C2-4059-B4FF-51F1A98F14E6}|TicketDashboardApi\\TicketDashboardApi.csproj|solutionrelative:ticketdashboardapi\\services\\clientcontentservice\\clientcontentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDCCC05-99C2-4059-B4FF-51F1A98F14E6}|TicketDashboardApi\\TicketDashboardApi.csproj|c:\\users\\sonalika\\desktop\\ticketdashboard\\api\\ticketdashboardapi\\controllers\\clientcontentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDCCC05-99C2-4059-B4FF-51F1A98F14E6}|TicketDashboardApi\\TicketDashboardApi.csproj|solutionrelative:ticketdashboardapi\\controllers\\clientcontentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDCCC05-99C2-4059-B4FF-51F1A98F14E6}|TicketDashboardApi\\TicketDashboardApi.csproj|c:\\users\\sonalika\\desktop\\ticketdashboard\\api\\ticketdashboardapi\\dtos\\clientcontentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDCCC05-99C2-4059-B4FF-51F1A98F14E6}|TicketDashboardApi\\TicketDashboardApi.csproj|solutionrelative:ticketdashboardapi\\dtos\\clientcontentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDCCC05-99C2-4059-B4FF-51F1A98F14E6}|TicketDashboardApi\\TicketDashboardApi.csproj|c:\\users\\sonalika\\desktop\\ticketdashboard\\api\\ticketdashboardapi\\models\\clientcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDCCC05-99C2-4059-B4FF-51F1A98F14E6}|TicketDashboardApi\\TicketDashboardApi.csproj|solutionrelative:ticketdashboardapi\\models\\clientcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDCCC05-99C2-4059-B4FF-51F1A98F14E6}|TicketDashboardApi\\TicketDashboardApi.csproj|c:\\users\\sonalika\\desktop\\ticketdashboard\\api\\ticketdashboardapi\\models\\projectinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDCCC05-99C2-4059-B4FF-51F1A98F14E6}|TicketDashboardApi\\TicketDashboardApi.csproj|solutionrelative:ticketdashboardapi\\models\\projectinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDCCC05-99C2-4059-B4FF-51F1A98F14E6}|TicketDashboardApi\\TicketDashboardApi.csproj|c:\\users\\sonalika\\desktop\\ticketdashboard\\api\\ticketdashboardapi\\datacontext\\ticketdashboarddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDCCC05-99C2-4059-B4FF-51F1A98F14E6}|TicketDashboardApi\\TicketDashboardApi.csproj|solutionrelative:ticketdashboardapi\\datacontext\\ticketdashboarddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDCCC05-99C2-4059-B4FF-51F1A98F14E6}|TicketDashboardApi\\TicketDashboardApi.csproj|c:\\users\\sonalika\\desktop\\ticketdashboard\\api\\ticketdashboardapi\\services\\clientcontentservice\\iclientcontentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDCCC05-99C2-4059-B4FF-51F1A98F14E6}|TicketDashboardApi\\TicketDashboardApi.csproj|solutionrelative:ticketdashboardapi\\services\\clientcontentservice\\iclientcontentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDCCC05-99C2-4059-B4FF-51F1A98F14E6}|TicketDashboardApi\\TicketDashboardApi.csproj|c:\\users\\sonalika\\desktop\\ticketdashboard\\api\\ticketdashboardapi\\controllers\\projectinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDCCC05-99C2-4059-B4FF-51F1A98F14E6}|TicketDashboardApi\\TicketDashboardApi.csproj|solutionrelative:ticketdashboardapi\\controllers\\projectinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDCCC05-99C2-4059-B4FF-51F1A98F14E6}|TicketDashboardApi\\TicketDashboardApi.csproj|c:\\users\\sonalika\\desktop\\ticketdashboard\\api\\ticketdashboardapi\\controllers\\personalinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDCCC05-99C2-4059-B4FF-51F1A98F14E6}|TicketDashboardApi\\TicketDashboardApi.csproj|solutionrelative:ticketdashboardapi\\controllers\\personalinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDCCC05-99C2-4059-B4FF-51F1A98F14E6}|TicketDashboardApi\\TicketDashboardApi.csproj|c:\\users\\sonalika\\desktop\\ticketdashboard\\api\\ticketdashboardapi\\services\\projectinfoservice\\projectinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDCCC05-99C2-4059-B4FF-51F1A98F14E6}|TicketDashboardApi\\TicketDashboardApi.csproj|solutionrelative:ticketdashboardapi\\services\\projectinfoservice\\projectinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDCCC05-99C2-4059-B4FF-51F1A98F14E6}|TicketDashboardApi\\TicketDashboardApi.csproj|c:\\users\\sonalika\\desktop\\ticketdashboard\\api\\ticketdashboardapi\\services\\projectinfoservice\\iprojectinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDCCC05-99C2-4059-B4FF-51F1A98F14E6}|TicketDashboardApi\\TicketDashboardApi.csproj|solutionrelative:ticketdashboardapi\\services\\projectinfoservice\\iprojectinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDCCC05-99C2-4059-B4FF-51F1A98F14E6}|TicketDashboardApi\\TicketDashboardApi.csproj|c:\\users\\sonalika\\desktop\\ticketdashboard\\api\\ticketdashboardapi\\dtos\\projectinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDCCC05-99C2-4059-B4FF-51F1A98F14E6}|TicketDashboardApi\\TicketDashboardApi.csproj|solutionrelative:ticketdashboardapi\\dtos\\projectinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDCCC05-99C2-4059-B4FF-51F1A98F14E6}|TicketDashboardApi\\TicketDashboardApi.csproj|c:\\users\\sonalika\\desktop\\ticketdashboard\\api\\ticketdashboardapi\\migrations\\20241211185323_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDCCC05-99C2-4059-B4FF-51F1A98F14E6}|TicketDashboardApi\\TicketDashboardApi.csproj|solutionrelative:ticketdashboardapi\\migrations\\20241211185323_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDCCC05-99C2-4059-B4FF-51F1A98F14E6}|TicketDashboardApi\\TicketDashboardApi.csproj|c:\\users\\sonalika\\desktop\\ticketdashboard\\api\\ticketdashboardapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDCCC05-99C2-4059-B4FF-51F1A98F14E6}|TicketDashboardApi\\TicketDashboardApi.csproj|solutionrelative:ticketdashboardapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDCCC05-99C2-4059-B4FF-51F1A98F14E6}|TicketDashboardApi\\TicketDashboardApi.csproj|c:\\users\\sonalika\\desktop\\ticketdashboard\\api\\ticketdashboardapi\\migrations\\20241212053901_fourth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDCCC05-99C2-4059-B4FF-51F1A98F14E6}|TicketDashboardApi\\TicketDashboardApi.csproj|solutionrelative:ticketdashboardapi\\migrations\\20241212053901_fourth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDCCC05-99C2-4059-B4FF-51F1A98F14E6}|TicketDashboardApi\\TicketDashboardApi.csproj|c:\\users\\sonalika\\desktop\\ticketdashboard\\api\\ticketdashboardapi\\migrations\\20241212051356_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDCCC05-99C2-4059-B4FF-51F1A98F14E6}|TicketDashboardApi\\TicketDashboardApi.csproj|solutionrelative:ticketdashboardapi\\migrations\\20241212051356_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241212055650_fifth.cs",
+              "DocumentMoniker": "C:\\Users\\SONALIKA\\Desktop\\TicketDashboard\\api\\TicketDashboardApi\\Migrations\\20241212055650_fifth.cs",
+              "RelativeDocumentMoniker": "TicketDashboardApi\\Migrations\\20241212055650_fifth.cs",
+              "ToolTip": "C:\\Users\\SONALIKA\\Desktop\\TicketDashboard\\api\\TicketDashboardApi\\Migrations\\20241212055650_fifth.cs",
+              "RelativeToolTip": "TicketDashboardApi\\Migrations\\20241212055650_fifth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T05:56:50.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241212053901_fourth.cs",
+              "DocumentMoniker": "C:\\Users\\SONALIKA\\Desktop\\TicketDashboard\\api\\TicketDashboardApi\\Migrations\\20241212053901_fourth.cs",
+              "RelativeDocumentMoniker": "TicketDashboardApi\\Migrations\\20241212053901_fourth.cs",
+              "ToolTip": "C:\\Users\\SONALIKA\\Desktop\\TicketDashboard\\api\\TicketDashboardApi\\Migrations\\20241212053901_fourth.cs",
+              "RelativeToolTip": "TicketDashboardApi\\Migrations\\20241212053901_fourth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T05:39:01.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IClientContentService.cs",
+              "DocumentMoniker": "C:\\Users\\SONALIKA\\Desktop\\TicketDashboard\\api\\TicketDashboardApi\\Services\\ClientContentService\\IClientContentService.cs",
+              "RelativeDocumentMoniker": "TicketDashboardApi\\Services\\ClientContentService\\IClientContentService.cs",
+              "ToolTip": "C:\\Users\\SONALIKA\\Desktop\\TicketDashboard\\api\\TicketDashboardApi\\Services\\ClientContentService\\IClientContentService.cs",
+              "RelativeToolTip": "TicketDashboardApi\\Services\\ClientContentService\\IClientContentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T05:36:22.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PersonalInfoController.cs",
+              "DocumentMoniker": "C:\\Users\\SONALIKA\\Desktop\\TicketDashboard\\api\\TicketDashboardApi\\Controllers\\PersonalInfoController.cs",
+              "RelativeDocumentMoniker": "TicketDashboardApi\\Controllers\\PersonalInfoController.cs",
+              "ToolTip": "C:\\Users\\SONALIKA\\Desktop\\TicketDashboard\\api\\TicketDashboardApi\\Controllers\\PersonalInfoController.cs",
+              "RelativeToolTip": "TicketDashboardApi\\Controllers\\PersonalInfoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T05:36:12.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241212051356_third.cs",
+              "DocumentMoniker": "C:\\Users\\SONALIKA\\Desktop\\TicketDashboard\\api\\TicketDashboardApi\\Migrations\\20241212051356_third.cs",
+              "RelativeDocumentMoniker": "TicketDashboardApi\\Migrations\\20241212051356_third.cs",
+              "ToolTip": "C:\\Users\\SONALIKA\\Desktop\\TicketDashboard\\api\\TicketDashboardApi\\Migrations\\20241212051356_third.cs",
+              "RelativeToolTip": "TicketDashboardApi\\Migrations\\20241212051356_third.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T05:13:56.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientContentController.cs",
+              "DocumentMoniker": "C:\\Users\\SONALIKA\\Desktop\\TicketDashboard\\api\\TicketDashboardApi\\Controllers\\ClientContentController.cs",
+              "RelativeDocumentMoniker": "TicketDashboardApi\\Controllers\\ClientContentController.cs",
+              "ToolTip": "C:\\Users\\SONALIKA\\Desktop\\TicketDashboard\\api\\TicketDashboardApi\\Controllers\\ClientContentController.cs",
+              "RelativeToolTip": "TicketDashboardApi\\Controllers\\ClientContentController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAADcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:51:11.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241211185323_second.cs",
+              "DocumentMoniker": "C:\\Users\\SONALIKA\\Desktop\\TicketDashboard\\api\\TicketDashboardApi\\Migrations\\20241211185323_second.cs",
+              "RelativeDocumentMoniker": "TicketDashboardApi\\Migrations\\20241211185323_second.cs",
+              "ToolTip": "C:\\Users\\SONALIKA\\Desktop\\TicketDashboard\\api\\TicketDashboardApi\\Migrations\\20241211185323_second.cs",
+              "RelativeToolTip": "TicketDashboardApi\\Migrations\\20241211185323_second.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:53:23.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectInfoController.cs",
+              "DocumentMoniker": "C:\\Users\\SONALIKA\\Desktop\\TicketDashboard\\api\\TicketDashboardApi\\Controllers\\ProjectInfoController.cs",
+              "RelativeDocumentMoniker": "TicketDashboardApi\\Controllers\\ProjectInfoController.cs",
+              "ToolTip": "C:\\Users\\SONALIKA\\Desktop\\TicketDashboard\\api\\TicketDashboardApi\\Controllers\\ProjectInfoController.cs",
+              "RelativeToolTip": "TicketDashboardApi\\Controllers\\ProjectInfoController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAkwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:50:59.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProjectInfoService.cs",
+              "DocumentMoniker": "C:\\Users\\SONALIKA\\Desktop\\TicketDashboard\\api\\TicketDashboardApi\\Services\\ProjectInfoService\\ProjectInfoService.cs",
+              "RelativeDocumentMoniker": "TicketDashboardApi\\Services\\ProjectInfoService\\ProjectInfoService.cs",
+              "ToolTip": "C:\\Users\\SONALIKA\\Desktop\\TicketDashboard\\api\\TicketDashboardApi\\Services\\ProjectInfoService\\ProjectInfoService.cs",
+              "RelativeToolTip": "TicketDashboardApi\\Services\\ProjectInfoService\\ProjectInfoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:45:44.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProjectInfoService.cs",
+              "DocumentMoniker": "C:\\Users\\SONALIKA\\Desktop\\TicketDashboard\\api\\TicketDashboardApi\\Services\\ProjectInfoService\\IProjectInfoService.cs",
+              "RelativeDocumentMoniker": "TicketDashboardApi\\Services\\ProjectInfoService\\IProjectInfoService.cs",
+              "ToolTip": "C:\\Users\\SONALIKA\\Desktop\\TicketDashboard\\api\\TicketDashboardApi\\Services\\ProjectInfoService\\IProjectInfoService.cs",
+              "RelativeToolTip": "TicketDashboardApi\\Services\\ProjectInfoService\\IProjectInfoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:45:43.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientContentService.cs",
+              "DocumentMoniker": "C:\\Users\\SONALIKA\\Desktop\\TicketDashboard\\api\\TicketDashboardApi\\Services\\ClientContentService\\ClientContentService.cs",
+              "RelativeDocumentMoniker": "TicketDashboardApi\\Services\\ClientContentService\\ClientContentService.cs",
+              "ToolTip": "C:\\Users\\SONALIKA\\Desktop\\TicketDashboard\\api\\TicketDashboardApi\\Services\\ClientContentService\\ClientContentService.cs",
+              "RelativeToolTip": "TicketDashboardApi\\Services\\ClientContentService\\ClientContentService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAC0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:43:07.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TicketDashboardDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SONALIKA\\Desktop\\TicketDashboard\\api\\TicketDashboardApi\\DataContext\\TicketDashboardDbContext.cs",
+              "RelativeDocumentMoniker": "TicketDashboardApi\\DataContext\\TicketDashboardDbContext.cs",
+              "ToolTip": "C:\\Users\\SONALIKA\\Desktop\\TicketDashboard\\api\\TicketDashboardApi\\DataContext\\TicketDashboardDbContext.cs",
+              "RelativeToolTip": "TicketDashboardApi\\DataContext\\TicketDashboardDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:42:45.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientContentDto.cs",
+              "DocumentMoniker": "C:\\Users\\SONALIKA\\Desktop\\TicketDashboard\\api\\TicketDashboardApi\\Dtos\\ClientContentDto.cs",
+              "RelativeDocumentMoniker": "TicketDashboardApi\\Dtos\\ClientContentDto.cs",
+              "ToolTip": "C:\\Users\\SONALIKA\\Desktop\\TicketDashboard\\api\\TicketDashboardApi\\Dtos\\ClientContentDto.cs",
+              "RelativeToolTip": "TicketDashboardApi\\Dtos\\ClientContentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:36:10.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProjectInfoDto.cs",
+              "DocumentMoniker": "C:\\Users\\SONALIKA\\Desktop\\TicketDashboard\\api\\TicketDashboardApi\\Dtos\\ProjectInfoDto.cs",
+              "RelativeDocumentMoniker": "TicketDashboardApi\\Dtos\\ProjectInfoDto.cs",
+              "ToolTip": "C:\\Users\\SONALIKA\\Desktop\\TicketDashboard\\api\\TicketDashboardApi\\Dtos\\ProjectInfoDto.cs",
+              "RelativeToolTip": "TicketDashboardApi\\Dtos\\ProjectInfoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:34:48.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientContent.cs",
+              "DocumentMoniker": "C:\\Users\\SONALIKA\\Desktop\\TicketDashboard\\api\\TicketDashboardApi\\Models\\ClientContent.cs",
+              "RelativeDocumentMoniker": "TicketDashboardApi\\Models\\ClientContent.cs",
+              "ToolTip": "C:\\Users\\SONALIKA\\Desktop\\TicketDashboard\\api\\TicketDashboardApi\\Models\\ClientContent.cs",
+              "RelativeToolTip": "TicketDashboardApi\\Models\\ClientContent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:46:26.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProjectInfo.cs",
+              "DocumentMoniker": "C:\\Users\\SONALIKA\\Desktop\\TicketDashboard\\api\\TicketDashboardApi\\Models\\ProjectInfo.cs",
+              "RelativeDocumentMoniker": "TicketDashboardApi\\Models\\ProjectInfo.cs",
+              "ToolTip": "C:\\Users\\SONALIKA\\Desktop\\TicketDashboard\\api\\TicketDashboardApi\\Models\\ProjectInfo.cs",
+              "RelativeToolTip": "TicketDashboardApi\\Models\\ProjectInfo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:38:23.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SONALIKA\\Desktop\\TicketDashboard\\api\\TicketDashboardApi\\Program.cs",
+              "RelativeDocumentMoniker": "TicketDashboardApi\\Program.cs",
+              "ToolTip": "C:\\Users\\SONALIKA\\Desktop\\TicketDashboard\\api\\TicketDashboardApi\\Program.cs",
+              "RelativeToolTip": "TicketDashboardApi\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:35:53.582Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 76,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
